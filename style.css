@@ -1,0 +1,22 @@
+section
+{
+    border: 2px solid black;
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+    margin-right: 100px;
+    background-color: #c1ffff;
+}
+
+article
+{
+    border: 2px solid #33923b;
+    margin: 100px;
+}
+
+aside
+{
+    border: 2px solid #7a0000;
+    width: 300px;
+    margin: auto;
+}
